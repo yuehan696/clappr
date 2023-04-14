@@ -11,11 +11,6 @@ engines:
     channel: "eslint-2"
   fixme:
     enabled: true
-ratings:
-  paths:
-  - "**.css"
-  - "**.js"
-exclude_paths:
 - dist/
 - test/
 - node_modules/
